@@ -7,21 +7,20 @@
 
 # Frosthaven Rule Book
 
-This is a lightweight, searchable, version of the Frosthaven Rule Book, inspired by [https://github.com/m-ender/gloomhaven-rules](https://github.com/m-ender/gloomhaven-rules).
-
-**Since I do not want to spoil myself this will not contain any of the stickers until we unlock them.**
+Hello Frosthaven Fiends!
+This is a lightweight, searchable, version of the Frosthaven Rule Book for your convenience. Any stickers will be added to this rulebook as they are uncovered, and will be linked below.
+Credit for original Markdown rulebook goes to [pikdonker](pikdonker/frosthaven-rule-book), who I forked this from.
 
 ### Stickers added:
 
-None
+*None*
 
 I've made a separate document that only lists the parts of the Rule Book that are marked as [new in Frosthaven.](./new-to-frosthaven.md)
 
-All text taken from the original Rule Book (as uploaded to [https://github.com/any2cards/worldhaven](https://github.com/any2cards/worldhaven)). Icons taken from [https://github.com/any2cards/worldhaven](https://github.com/any2cards/worldhaven). All mistakes are mine. [PR's](https://github.com/pikdonker/frosthaven-rule-book/pulls) welcome, **as long as they do not contain spoilers.**
+All text taken from the original Rule Book.
 
 © 2022 Cephalofair Games, LLC. All Rights Reserved.
 
----
 
 <p align="right"><strong><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_2">2</a></strong></p>
 
