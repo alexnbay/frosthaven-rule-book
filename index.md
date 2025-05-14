@@ -1710,7 +1710,7 @@ A character sheet has the following:
 ---
 
 <p align="right"><strong><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_53">53</a></strong></p>
-
+<p align="right"><strong><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_54">54</a></strong></p>
 ---
 
 ## Campaign Sheet
